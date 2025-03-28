@@ -1,9 +1,11 @@
-# Pulse-Code-Modulation
-Aim:
+# Exp:3 Pulse-Code-Modulation
+# Name: Keerthana S
+# Reg No: 212223060122
+### Aim:
 To implement Pulse Code Modulation (PCM) for encoding and decoding a sinusoidal signal using quantization and to observe the output waveforms.
 
 
-Tools/Software Required:
+### Tools/Software Required:
 
  1. Python Software
 
@@ -11,10 +13,9 @@ Tools/Software Required:
 
 -> Matplotlib Library
 
--> Scipy Library (for signal processing
 
 
-Program:
+### Program:
 
 import numpy as np
 
@@ -95,7 +96,7 @@ plt.tight_layout()
 
 plt.show()
 
-Output Waveform:
+### Output Waveform:
 
 <img width="871" alt="image" src="https://github.com/user-attachments/assets/d78349ec-4e25-45a8-8e2e-f2b90004c576" />
 
@@ -107,7 +108,7 @@ Output Waveform:
 
 
 
-Results:
+### Results:
 
 The PCM encoding process successfully quantized the original sine wave into 16 levels.
 

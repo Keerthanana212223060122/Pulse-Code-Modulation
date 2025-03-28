@@ -4,7 +4,6 @@
 ### Aim:
 To implement Pulse Code Modulation (PCM) for encoding and decoding a sinusoidal signal using quantization and to observe the output waveforms.
 
-
 ### Tools/Software Required:
 
  1. Python Software
@@ -12,8 +11,6 @@ To implement Pulse Code Modulation (PCM) for encoding and decoding a sinusoidal 
 -> Numpy Library
 
 -> Matplotlib Library
-
-
 
 ### Program:
 ```python
@@ -66,8 +63,6 @@ plt.show()
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/12550ba4-fd9a-4a8a-acb0-660c611a4e20" />
 
 <img width="873" alt="image" src="https://github.com/user-attachments/assets/8f0bc45f-b120-404c-9950-5c1f58173502" />
-
-
 
 ### Results:
 
